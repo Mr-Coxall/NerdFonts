@@ -4,3 +4,10 @@
     src: url(./fonts/ComicMono/ComicShannsMonoNerdFontMono-Regular.ttf);
   }
   
+
+  @font-face {
+    font-family: FiraCode NF;
+    font-weight: normal;
+    src: url(./fonts/FiraCode/FiraCodeNerdFont-Regular.ttf);
+  }
+  
